@@ -1,0 +1,4 @@
+http://joelabrahamsson.com/the-openclosed-principle-a-real-world-example/
+
+https://en.wikipedia.org/wiki/SOLID
+
